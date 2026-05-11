@@ -3,7 +3,10 @@ using namespace std;
 
 int main {}
 {
-int nombre;
+char nombre;
+int codigo;
 cout << "LUIS DAVID VIAFARA ZAPATA"<< endl;
+cout << "2516488"<< endl;
+cin>> codigo;
 cin>> nombre;
 };
